@@ -10,9 +10,7 @@
   },
   "dependencies": {
     "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0",
-    "serve": "^14.2.3"
+    "react-dom": "^18.0.0"
   },
   "browserslist": {
     "production": [
@@ -25,5 +23,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "serve": "^14.2.3",
+    "react-scripts": "^5.0.0"
   }
 }
